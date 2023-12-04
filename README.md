@@ -4,7 +4,7 @@
 Demo Video: <https://www.loom.com/share/90765af9ef8346db886af42a0bb56590?sid=9dee9bb1-abc0-45dd-a6a8-31cdf13db0d6>
 
 ## GitHub Repository
-GitHub Repo: <URL>
+GitHub Repo: <https://github.com/manasavalluru/pdfa-final-project-manasa-valluru.git>
 
 ## Description
 My final project is a word search puzzle generator. It has a few key components:
